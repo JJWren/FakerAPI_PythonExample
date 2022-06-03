@@ -4,5 +4,3 @@ It can easily be expanded with more methods to the `FakeMe` class structure -- i
 
 Example Output:
 ![image](https://user-images.githubusercontent.com/43586816/171777859-126ac89e-0b65-453b-9d4a-eaacef97e677.png)
-
-> > > > > > > 3aa42cdc0e259b2d38a181b627de7da3f93bec61
