@@ -29,5 +29,9 @@ class Fake_Address():
 
 
 if __name__ == "__main__":
-    rnd_address = Fake_Me.Rand_Address()
-    print(rnd_address.Full)
+    print(f"10 Random Fake Addresses:")
+    num = 10
+    while num > 0:
+        # The more efficient route would be to make a method that sets quantity called from the API to 10 or to use user input to select how many should be generated. These could be stored in a list or set and printed back. This would reduce calls to the API and be a faster implementation.
+        print(Fake_Me.Rand_Address().Full)
+        num -= 1
